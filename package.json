@@ -1,0 +1,14 @@
+{
+  "name": "ai-company-hq",
+  "version": "1.0.0",
+  "description": "Org-chart workspace to manage and chat with your AI workforce — org chart always visible, talk to any role.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "keywords": ["openclaw", "org-chart", "ai-agents", "solo-founder", "solopreneur", "dashboard"],
+  "license": "MIT"
+}
